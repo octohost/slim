@@ -9,7 +9,7 @@ Push this repo to your octohost:
 
 ```
 git clone https://github.com/octohost/slim.git
-cd harp
+cd slim
 git remote add octohost git@ip.address.here:slim.git
 git push octohost master
 ```
