@@ -1,6 +1,6 @@
-FROM octohost/php5-nginx
+FROM octohost/php5
 
-ADD . /var/www/
+ADD . /srv/www/
 
 EXPOSE 80
 
