@@ -13,5 +13,3 @@ cd slim
 git remote add octohost git@ip.address.here:slim.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://slim.octohost.io](http://slim.octohost.io)
